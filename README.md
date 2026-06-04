@@ -47,17 +47,17 @@ More projects coming soon...
 “Good design is invisible. It just works.”
 
 I focus on:
-
 Clean visual hierarchy
 User-first experience
 Performance over complexity
 Minimal but meaningful UI
+
 📫 Let's Connect
 🌐 Website: https://pbasiri.ir
-💼 GitHub: https://github.com/YOUR_USERNAME
-📧 Email: your.email@example.com
-📱 Instagram: @your_handle
-⚡ Status
+💼 GitHub: https://github.com/PooryAb97
+📧 Email: poorya.basiri@gmail.com
+📱 Instagram: @poorya_basiri
 
+⚡ Status
 🟢 Available for freelance / collaboration
 🧠 Currently improving React & advanced UI architecture
