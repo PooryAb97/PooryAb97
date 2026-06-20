@@ -52,7 +52,7 @@ Minimal but meaningful UI
 🌐 Website: https://pbasiri.ir
 💼 GitHub: https://github.com/PooryAb97
 📧 Email: poorya.basiri@gmail.com
-📱 Instagram: @poorya_basiri
+📱 Linkedin: https://linkedin.com/in/poorya-basiri
 
 ⚡ Status
 🟢 Available for freelance / collaboration
