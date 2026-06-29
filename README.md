@@ -4,7 +4,7 @@ Poorya Basiri
 
 Portfolio
   https://pbasiri.ir
-  GitHub: https://github.com/PooryAb97
+  GitHub: https://github.com/pooryabasiri
 
 What I Do
   I turn ideas into real, usable digital products.
@@ -50,7 +50,7 @@ I focus on:
 
 Let's Connect
 🌐 Website: https://pbasiri.ir
-💼 GitHub: https://github.com/PooryAb97
+💼 GitHub: https://github.com/pooryabasiri
 📧 Email: poorya.basiri@gmail.com
 📱 Linkedin: https://linkedin.com/in/poorya-basiri
 
