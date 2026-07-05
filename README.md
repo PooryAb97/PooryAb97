@@ -52,7 +52,7 @@ Let's Connect
 🌐 Website: https://pbasiri.ir
 💼 GitHub: https://github.com/pooryabasiri
 📧 Email: poorya.basiri@gmail.com
-📱 Linkedin: https://linkedin.com/in/poorya-basiri
+📱 Linkedin: https://linkedin.com/in/pooryabasiri
 
 Status
   Available for freelance / collaboration
